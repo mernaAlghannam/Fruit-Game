@@ -1,0 +1,5 @@
+﻿  TheTestGame.cpp
+c:\users\merna\desktop\cit 120 final project\thetestgame\thetestgame\thetestgame.cpp(189): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\merna\desktop\cit 120 final project\thetestgame\thetestgame\thetestgame.cpp(201): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\merna\desktop\cit 120 final project\thetestgame\thetestgame\thetestgame.cpp(207): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  TheTestGame.vcxproj -> C:\Users\merna\Desktop\CIT 120 Final Project\TheTestGame\Debug\TheTestGame.exe
